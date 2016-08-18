@@ -1,0 +1,17 @@
+{
+    "name": "griffy-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Neapolitan"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/griffy-bower.git"
+    },
+    "description": "Griffy font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
